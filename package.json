@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lcmencia/edge-rest-api#readme",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2",
     "knex": "^2.3.0",
     "sqlite3": "^5.1.2"
